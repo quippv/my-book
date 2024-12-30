@@ -2,5 +2,5 @@
 headless: true
 ---
 
-- [**Learn Go**]({{< relref "/docs/learn-go" >}})
+- [**Learn Python**]({{< relref "/docs/learn-python" >}})
 <br />
